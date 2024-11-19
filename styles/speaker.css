@@ -19,6 +19,7 @@ a:focus, a:hover {
 }
 figcaption{
 	text-align:right;
+	padding:10em;
 }
 /* the styles for the header */
 header {
