@@ -22,10 +22,10 @@ figure {
     margin: 20px; 
 }
 figure img {
-    vertical-align: top;
+    vertical-align: right;
 }
 figure figcaption {
-    text-align: center;
+    text-align: right;
 }
 /* the styles for the header */
 header {
