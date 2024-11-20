@@ -17,9 +17,15 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-figcaption{
-	text-align:right;
-	padding:10em;
+figure {
+    display: inline-block;
+    margin: 20px; 
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
 }
 /* the styles for the header */
 header {
